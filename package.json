@@ -1,0 +1,29 @@
+{
+  "name": "arnaud-de-baerdemaeker",
+  "version": "1.0.0",
+  "description": "My CLI business card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arnaud-De-Baerdemaeker/npx-card.git"
+  },
+  "keywords": [
+    "cli",
+    "business",
+    "card"
+  ],
+  "author": "Arnaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arnaud-De-Baerdemaeker/npx-card/issues"
+  },
+  "homepage": "https://github.com/Arnaud-De-Baerdemaeker/npx-card#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "install": "^0.13.0"
+  }
+}
