@@ -1,4 +1,4 @@
-.unotes/unotes_meta.json
+
 node_modules/@types/color-name/index.d.ts
 node_modules/@types/color-name/LICENSE
 node_modules/@types/color-name/package.json
@@ -158,3 +158,4 @@ node_modules/widest-line/index.js
 node_modules/widest-line/license
 node_modules/widest-line/package.json
 node_modules/widest-line/readme.md
+.unotes/unotes_meta.json
