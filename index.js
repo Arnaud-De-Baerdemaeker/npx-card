@@ -10,7 +10,7 @@ const data =
 	npm : chalk.white("https://www.npmjs.com/~ptit-naud"),
 	github: chalk.white("https://github.com/Arnaud-De-Baerdemaeker"),
 	linkedin : chalk.white("https://www.linkedin.com/in/arnaud-de-baerdemaeker-b342a71a9"),
-	npx: chalk.white("npx "),
+	npx: chalk.white("arnaud-de-baerdemaeker"),
 	labelWork: chalk.green.bold
 	(
 		"    Work : "
@@ -29,7 +29,7 @@ const data =
 	),
 	labelNpx: chalk.green.bold
 	(
-		"     npx : arnaud-de-baerdemaeker"
+		"     npx : "
 	),
 };
 
@@ -48,6 +48,7 @@ console.log
 				data.labelLinkedIn + data.linkedin,
 				data.labelGithub + data.github,
 				data.labelNpm + data.npm,
+				newLine,
 				data.labelNpx + data.npx,
 			].join("\n"),
 			{
