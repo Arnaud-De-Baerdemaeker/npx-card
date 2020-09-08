@@ -1,6 +1,6 @@
 {
   "name": "arnaud-de-baerdemaeker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My CLI business card",
   "main": "index.js",
   "bin":
