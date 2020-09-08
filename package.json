@@ -1,8 +1,12 @@
 {
   "name": "arnaud-de-baerdemaeker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "My CLI business card",
   "main": "index.js",
+  "bin":
+  {
+    "arnaud": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
