@@ -14,14 +14,19 @@ Here you go !
 
 ## Version
 
-###### 1.0.2
+### 1.0.3
 
-Modifications in the README file.
+* Corrected the "npx" entry
+* Updated the README
 
-###### 1.0.1
+### 1.0.2
 
-Corrections in the .json file to make the package work.
+* Modifications in the README file
 
-###### 1.0.0
+### 1.0.1
 
-Initial
+* Corrections in the .json file to make the package work
+
+### 1.0.0
+
+* Initial
